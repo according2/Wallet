@@ -1,0 +1,11 @@
+{
+  "name": "Remix Wallet Pro",
+  "description": "Edge-to-edge digital wallet prototype with loyalty tiers, quick actions, and transaction flows.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
